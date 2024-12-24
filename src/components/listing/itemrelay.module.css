@@ -1,0 +1,27 @@
+.itemsRelayHldr{
+   display: block;
+   width: 80%;
+   margin-left: 10%;
+}
+.itemsRelayItems{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    overflow-x: auto;
+    padding: 20px 0;
+}
+.featuredCard{
+    margin-right: 40px;
+    cursor: pointer;
+    min-width: 220px;
+    overflow: hidden;
+    border-radius: 5px;
+    transition: box-shadow 0.2s linear;
+}
+.featuredCard:hover{
+    box-shadow: 0 0 4px #fff;
+}
+
+.featuredCard img{
+    width: 100%;
+}

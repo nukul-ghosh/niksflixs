@@ -1,0 +1,19 @@
+*, body{margin: 0; padding:0; font-size: 14px; font-family: Verdana, Geneva, Tahoma, sans-serif;  line-height: 1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: left;
+}
+body{
+  background-color: black;
+  color:white;
+}
+#root {
+  margin: 0 auto;
+}
+.delius-regular {
+  font-family: "Delius", serif;
+  font-weight: 400;
+  font-style: normal;
+}
